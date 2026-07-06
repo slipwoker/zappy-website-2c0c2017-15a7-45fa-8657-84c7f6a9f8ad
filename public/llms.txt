@@ -33,9 +33,9 @@ Information about WCAG compliance and accessibility features.
 ## How to Contact Us
 
 - Email: eitansegev2070@gmail.com
-- Phone: 0555642661
-- Phone (tel): tel:0555642661
-- Address: כפר יונה , אהבת אדם , 62 1
+- Phone: +972555642661
+- Phone (tel): tel:+972555642661
+- Address: כפר יונה , אהבת אדם , 62 1, ישראל
 
 ### Contact form
 - URL: https://example.com
