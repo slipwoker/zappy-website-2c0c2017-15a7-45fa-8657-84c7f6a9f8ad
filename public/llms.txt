@@ -1,0 +1,72 @@
+# המשחקים של איתן שגב — Generative Engine Optimization Map
+
+> צור לי אתר שלי
+
+---
+
+## Pages
+
+### בית
+https://-2c0c2017.zappy5.app
+הכניסו את הילדים לעולם קסום של משחקים חינוכיים לילדים ומשחקי לוח למשפחה שמפתחים חשיבה ויצירתיות. הצטרפו לאיתן שגב לחוויה בלתי נשכחת!
+
+### תודה שפניתם אלינו
+https://-2c0c2017.zappy5.app/thank-you
+המשחקים של איתן שגב - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-2c0c2017.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-2c0c2017.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-2c0c2017.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-2c0c2017.zappy5.app
+- Endpoint: https://-2c0c2017.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About המשחקים של איתן שגב
+צור לי אתר שלי
+
+## Target Audience
+- חובבי משחקים
+- משפחות עם ילדים
+- גיימרים ברשתות חברתיות
+- גיימרים מזדמנים במובייל
+- מחפשי משחקים חינוכיים
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-2c0c2017.zappy5.app/sitemap.xml
+- Robots: https://-2c0c2017.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-2c0c2017.zappy5.app/llms-full.txt
